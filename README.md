@@ -19,7 +19,7 @@ Buffer overflow vulnerabilities have been a significant security concern for dec
 2)Simpler exploitation due to lack of modern mitigations.
 3)Unique challenges in embedded systems security.
 
-For more detailed information, check out the (Arduino Experiment README)[https://github.com/CHIRANJEET1729DAS/Buffer-Overflow-Exploiataion-experimental-/blob/main/Arduino/README.md].
+For more detailed information, check out the [Arduino Experiment README](https://github.com/CHIRANJEET1729DAS/Buffer-Overflow-Exploiataion-experimental-/blob/main/Arduino/README.md).
 
 ## Garuda Linux Buffer Overflow Experiment:
 
@@ -31,7 +31,7 @@ For more detailed information, check out the (Arduino Experiment README)[https:/
 2)Step-by-step debugging using GDB to understand how exploits can be prevented.
 3)Real-world challenges in bypassing modern security measures.
 
-For more detailed information, check out the (Garuda Linux Experiment README)[https://github.com/CHIRANJEET1729DAS/Buffer-Overflow-Exploiataion-experimental-/blob/main/Arch_based_system(GARUDA)/README.md].
+For more detailed information, check out the [Garuda Linux Experiment README](https://github.com/CHIRANJEET1729DAS/Buffer-Overflow-Exploiataion-experimental-/blob/main/Arch_based_system(GARUDA)/README.md).
 
 ## Security in Modern Systems
 
