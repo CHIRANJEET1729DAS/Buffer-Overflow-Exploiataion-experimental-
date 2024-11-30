@@ -35,6 +35,6 @@ While attempting to exploit a buffer overflow on the Arduino, several challenges
 
 While buffer overflows are a classic vulnerability in many programming environments, Arduino’s simplified memory management and lack of complex protections (like dynamic memory and function pointers) create a unique scenario that makes exploiting such vulnerabilities more challenging. This project aims to provide a deeper understanding of how vulnerabilities work in embedded systems and the importance of considering both security and performance when developing software for these platforms.
 
-## [Observations] (https://github.com/CHIRANJEET1729DAS/Buffer-Overflow-Exploiataion-experimental-/tree/main/Arduino/Obeservations)
+## [Observations](https://github.com/CHIRANJEET1729DAS/Buffer-Overflow-Exploiataion-experimental-/tree/main/Arduino/Obeservations)
  
 All the observation pictures related to the project's attempts and findings are stored in the Observation folder. These images provide further insight into the experiments conducted.
